@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+.venv/
+venv/
+ENV/
+env/
+bin/
+lib/
+__pycache__/
+*.py[cod]
+*$py.class
